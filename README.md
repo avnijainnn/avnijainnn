@@ -5,14 +5,6 @@
 
 I'm passionate about building software and intelligent systems that solve real-world problems. I enjoy working across **software engineering, machine learning, and generative AI**, while continuously strengthening my foundations in algorithms and computer science.
 
-### 🚀 What I'm working on
-
-* 🤖 **AI Agents & LLM Applications**
-* 🔍 **RAG & Model Evaluation**
-* 🧠 **Machine Learning & Deep Learning**
-* 📊 **ML Research & Knowledge Distillation**
-* 💻 **Data Structures & Algorithms**
-* 🌐 **Full-Stack & Software Engineering**
 
 ### 🛠️ Tech Stack
 
@@ -28,26 +20,33 @@ I'm passionate about building software and intelligent systems that solve real-w
 **Databases & Tools**
 `PostgreSQL` `MongoDB` `ChromaDB` `Docker`
 
-### 🔬 Research
+## Projects
 
-Currently interested in the reliability, robustness, and evaluation of intelligent systems — particularly **LLMs, AI agents, and ML models operating in complex environments**.
+[QuantRisk](https://github.com/avnijainnn/QuantRisk) : Safety-first MCP quant risk orchestration engine with deterministic pre-trade validation, paper trading, PostgreSQL, Redis, FastAPI, and fail-closed controls.
 
-I've also worked on research involving **Graph Neural Networks, knowledge distillation, financial networks, fairness, and model stability**.
+[VeritiGraph](https://github.com/avnijainnn/VeritiGraph) : Evidence-grounded GraphRAG fact-checking pipeline using FEVER, knowledge graphs, MCP tools, and agent-based evidence retrieval and verification.
 
-### 📌 Featured Projects
+[Stream-Guarded ML Gateway](https://github.com/avnijainnn/Stream-guarded-ML-gateway) : Streaming LLM gateway that validates generated claims in real time and aborts ungrounded responses mid-generation.
 
-🔹 **AI / RAG Applications**
-Building retrieval-augmented systems with vector databases, embeddings, and LLMs.
+[NovaML](https://github.com/avnijainnn/NovaaML) : MCP server that enables AI agents to autonomously inspect data, engineer features, train ML models, and run end-to-end ML workflows.
 
-🔹 **Model Evaluation**
-Experimenting with automated evaluation pipelines and LLM-as-a-judge approaches.
+[RAGuard](https://github.com/avnijainnn/RAGuard) : RAG evaluation system that automatically generates test questions and scores responses for correctness, relevance, and faithfulness using LLM-as-a-Judge.
 
-🔹 **ML Research**
-Exploring knowledge distillation and the stability/fairness trade-offs of ML models.
+[Profit Studio](https://github.com/avnijainnn/profit-tracker) : Django-based inventory, accounting, and profit-tracking platform with SKU-level costing, FIFO inventory, month-end reconciliation, and financial audit history.
 
-### 📈 Currently Learning
+[Socially](https://github.com/avnijainnn/socially) : Full-stack developer social platform for sharing interview experiences, discovering projects, finding collaborators, and exchanging career advice.
 
-`Advanced DSA` • `System Design` • `LLM Evaluation` • `AI Agents` • `MLOps`
+[TwinMarket](https://github.com/avnijainnn/twinmark) : Experimental financial-market simulation workspace for studying model behavior and market dynamics through TwinMarket experiments.
+
+[Off-Road Segmentation](https://github.com/avnijainnn/offroad-segmentation-) : Computer vision project for training and evaluating semantic segmentation models on off-road environments with IoU-based analysis.
+
+[AWS Cloud Club IGDTUW](https://github.com/avnijainnn/AWS-Cloud-Club-IGDTUW-official-website) : Official website for the AWS Cloud Club at IGDTUW, built to showcase the community, activities, events, and resources.
+
+[AWS Student Community Day](https://github.com/avnijainnn/AWS-Student-Community-Day) : Event website for AWS Student Community Day featuring speakers, sessions, venue information, sponsors, and registrations.
+
+[Credit Card Fraud Detection](https://github.com/avnijainnn/credit-card-fraud-detection) : Machine learning project for identifying fraudulent credit-card transactions while addressing severe class imbalance.
+
+[Breast Cancer Detection](https://github.com/avnijainnn/breast-cancer-detection) : Logistic-regression-based ML system for classifying breast tumors as benign or malignant from diagnostic features.
 
 ### 🤝 Let's Connect
 
