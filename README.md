@@ -1,4 +1,4 @@
-# Hi, I'm Avni Jain 👋
+# Hi, I'm [Avni Jain](https://avni-macos-portfolio-n47xziiyk-avni-jains-projects.vercel.app/) 👋
 
 🎓 **Computer Science & Artificial Intelligence Student**
 💻 **Software Engineering | AI/ML | LLMs | Research**
